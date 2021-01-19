@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I want to collaborate with other great developers from all over the world
-- 🥅 2021 Goals: Explore all the secrets and secrets of JavaScript. And mobile development on Dart
+- 🥅 2021 Goals: Explore all most about JavaScript and mobile development on Dart
 - ⚡ I like to read books, especially about finance, and work hard)
 
 ### Skill:
