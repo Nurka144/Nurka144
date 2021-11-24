@@ -1,7 +1,7 @@
 ### Hi there, I'm Tuzelbekov Nurbek 👋
 
 
-## I'm a Student and Full Stack JavaScript Developer!!!
+## I'm a Full Stack JavaScript Developer!!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I want to collaborate with other great developers from all over the world
